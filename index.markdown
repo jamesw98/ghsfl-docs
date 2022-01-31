@@ -5,3 +5,4 @@
 layout: home
 ---
 # GHSFL Documents Repository
+This website is a repository for any and all current GHSFL documents. 
