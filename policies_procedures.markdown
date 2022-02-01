@@ -13,27 +13,9 @@ safety.
 The policies and procedures are set by the GHSFL Board and questions about them should be addressed to:
 * Chair | Terry White | [terry.white@ghsfl.net](mailto:terry.white@ghsfl.net)
 * Vice Chair | Kathy Vail | [kathy.vail@ghsfl.net](mailto:kathy.vail@ghsfl.net)  
-
-### Related Documents
-This is one of a series of documents describing how GHSFL operates. The other documents are:
-* *GHSFL Competition Format.* Describes how the GHSFL season works and how rankings are determined.
-* *GHSFL Tournament Hosting Guide.* Describes how to organize a GHSFL tournament.
-* *GHSFL Fencing Time Instructions.* How to use the Fencing Time software to run a GHSFL Tournament.  
-These documents can be obtained from the Tournament Coordinator, James Wallace ([james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net))  
   
-## Changes for the 2019-22 Season  
-“GHSFL Team Membership” on page 4 was updated to say that GHSFL teams must be official school clubs.
-* “GHSFL Team Membership” on page 4 was updated to say that beginning with their second year in GHSFL,
-teams must have at least six student members.
-* “Faculty Sponsor” on page 5 was updated to say that beginning with the 2020-21 season, coaches must be at
-least 21 years old.
-* “Complaints against Coaches” on page 5 was added.
-* “Use of Contact List” on page 9 was updated to say that coaches’ e-mail addresses must be personal
-addresses and not those of a business or club; and that the list is to be used only for official and approved
-GHSFL business.
-* “Contact with individuals or organizations outside GHSFL” on page 9 was added to say that only the GHSFL
-Board is authorized to contact outside groups or individuals about GHSFL events.
-* “SafeSport” on page 11 was added.  
+## Changes for the 2022-23 Season  
+* GHSFL Contact List policy addition
 
 ## Mission Statement of the GHSFL  
 The purpose of this organization is to provide support for the development, activities and continuance of high school
@@ -176,7 +158,8 @@ Clinic
 The GHSFL contact list is limited to oen Faculty Sponsor, one Parent Representative, and one coach from each member school
 * The coach must have a personal email address on the contact list. Email addresses containing the name of a business or club will not be placed on the GHSFL contact list
 * The GHSFL contact list is distributed only to those listed on teh GHSFL contact list
-* The GHSFL contact list is to be used only for official and approved GHSFL business. The contact list is not to be used for any other purposes, including, but not limited to, any and all events not directly approved in writing by the GHSFL Board  
+* The GHSFL contact list is only to be used by those who are listed on the GHSFL contact list
+* The GHSFL contact list is to be used only for official and approved GHSFL business. The contact list is not to be used for any other purposes, including, but not limited to, any and all events not directly approved in writing by the GHSFL Board 
   
 Any individual including, but not limited to, fencers, coaches, referees, faculty sponsors and team parents, found to be in violation of the policies listed above will be excluded from participating in any GHSFL practices, tournaments, or special events.   
   
@@ -196,7 +179,7 @@ Any individual including, but not limited to, fencers, coaches, referees, facult
 ## General Safety Rules
 The GHSFL adheres to USA Fencing rules, regulations and requirements for protective clothing and fencing equipment. The member school is responsible for ensuring that all fencing clothing and equipment used at GHSFL tournaments and practices is in compliance with the current USA Fencing rules and safety standards. Fencers will not be allowed to fence unless they are wearing the following, **all of which must be in good condition**:
 * Fencing mask
-  * foil masks (with conductive material on the bib) are not allowed
+  * foil masks and sabre masks (with conductive material on the bib) are not allowed
   * masks must have two points of contact with the back of the head, those with only two straps in the shape of an "X" are not allowed
 * Fencing glove
 * Chest protector
