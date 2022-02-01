@@ -212,11 +212,11 @@ Fencers are strongly advised to wear a neck protector such as a hockey goalie's 
   
 Corporate/sponsored advertising is not permitted on strips and scoring equipment at GHSFL tournaments. Business advertisement and/or sponsor logos may not be displayed on equipment, including, but not limited to reels, scoring boxes, floor cords and tables at GHSFL tournaments  
   
-When hosting a tournament, a member school must prominently post hte following at the glove/mask check table:
-```
+When hosting a tournament, a member school must prominently post hte following at the glove/mask check table:  
+
 NOTICE
-Fencers arm, equip, and clothe themselves and fence at their own responsibility and their own risk. Safety measures are only designed to increase the fencer's safety and cannot guarantee it. They cannot, therefore, whatever the manner in which they are applied, impart responsibility to the GHSFL, or to the organizer of competitions, to the officials or personnel who carry out such organization, or those who may cause an accident.
-```  
+Fencers arm, equip, and clothe themselves and fence at their own responsibility and their own risk. Safety measures are only designed to increase the fencer's safety and cannot guarantee it. They cannot, therefore, whatever the manner in which they are applied, impart responsibility to the GHSFL, or to the organizer of competitions, to the officials or personnel who carry out such organization, or those who may cause an accident.  
+
   
 ## SafeSport
 The Georgia High School Fencing League fully supports the aims of the US Center for SafeSport.  
