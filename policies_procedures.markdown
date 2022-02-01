@@ -54,7 +54,7 @@ The GHSFL strongly encourages, but does not require, the Faculty Sponsor to be p
   
 Faculty Sponsors and coaches must take the approved on-line concussion safety training course: https://www.cdc.gov/headsup/youthsports/training/index.html. The Faculty Sponsor is responsible for ensuring the coach(s) for their school has taken the training.   
   
-Beginning with the 2020-21 season, GHSFL coaches must be at 21 years of age or older.   
+Beginning with the 2020-21 season, GHSFL coaches must be at 21 years of age or older. Coaches must complete any background check/screening required by their school. The GHSFL strongly encourages the completion of a SafeSport course.    
   
 #### Complaints Against Coaches
 Any complaint/report regarding coaches behavior must be made in writing by a faculty-sponsor or team parent. 
