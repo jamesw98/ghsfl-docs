@@ -13,9 +13,6 @@ safety.
 The policies and procedures are set by the GHSFL Board and questions about them should be addressed to:
 * Chair | Terry White | [terry.white@ghsfl.net](mailto:terry.white@ghsfl.net)
 * Vice Chair | Kathy Vail | [kathy.vail@ghsfl.net](mailto:kathy.vail@ghsfl.net)  
-  
-## Changes for the 2022-23 Season  
-* GHSFL Contact List policy addition
 
 ## Mission Statement of the GHSFL  
 The purpose of this organization is to provide support for the development, activities and continuance of high school
