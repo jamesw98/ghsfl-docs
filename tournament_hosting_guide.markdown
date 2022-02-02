@@ -190,7 +190,7 @@ At the check in table, you must perform a safety check on masks and gloves and m
 ### Masks
 Masks should have no dents in the mesh, broken wires, or sharp edges. The mesh should be tested properly with a mask tester (punch).  
   
-<span style="color=yellow">More details about properly testing a mask will be put here. If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span>   
+<span style="color:yellow">More details about properly testing a mask will be put here. If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span>   
 The mask must have two points of contact with the back of the head, masks with no tongue and only two straps in an "X" should be rejected.   
     
 The integrity of the mask's elastic strap should be tested to ensure that the strap(s) stretches, that the elastic has not been worn out and that the elastic is in satisfactory condition. When stretching the elastic, if there is no stretch or if it is too loose, reject the mask.   
