@@ -83,7 +83,7 @@ What is the procedure for reserving a gym or the cafeteria? Is there a charge?
 * How early in the morning can you get access to the school? Check-in usually opens at 7:30, so you need to
 be in the building by 7 AM at the latest (earlier if you didn’t set up on Friday).
 * When must you leave? Most tournament finish before 5 PM, but it is best to reserve space until 6 PM.
-* How do you get access to the PA system in the gym? What batteries (if any) are needed for the mike?
+* How do you get access to the PA system in the gym? What batteries (if any) are needed for the mic?
 * Can spectators bring food and drink into the gym (note that fencers must always be allowed water)?
 * Where can you get the tables and chairs that you will need? Are you allowed to move them yourselves?
 * What other activities will take place on the same day as your tournament? Do they affect what parking lot or school entrance you can use? If there is an ACT or SAT, you may need to keep fencers away from the part of the school where the test is being administered.  
