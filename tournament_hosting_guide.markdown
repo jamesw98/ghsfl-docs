@@ -272,4 +272,8 @@ Arrange for janitorial staff to raise basketball hoops and extend/retract bleach
   
 #### The Week Of
 Ensure your volunteer positions are filled, if they are not, send out a plea for more. 
-
+Double check that janitorial staff can do what you need in terms of moving basketball hoops, bleachers, etc.   
+    
+### Tournament Day 
+Below you can find a **suggested** schedule for running a tournament  
+  
