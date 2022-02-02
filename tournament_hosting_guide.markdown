@@ -103,4 +103,31 @@ be in the building by 7 AM at the latest (earlier if you didn’t set up on Frid
     * <span style="color:yellow">fencer's can be removed from a roster due to medical exception only</span>
 * <span style="color:yellow">The Tournament Administrator will send out the event information as well as strip assignments no later than 5pm on the Wednesday before the event via email</span>
 * <span style="color:yellow">Once the Tournament Administrator has imported the rosters into FencingTime, he will send out the results via email to the participating schools</span>
-    * <span style="color:yellow">the schools will have 24 hours to notify the Tournament Administrator of any fencers who were on the original rosters sent who are missing from the import results</span>
+    * <span style="color:yellow">the schools will have 24 hours to notify the Tournament Administrator of any fencers who were on the original rosters sent who are missing from the import results</span>  
+    
+## Equipment Needed
+### Check In
+You will need a mask tester, also known as a mask punch. It is a good idea to have two people checking masks.  
+    
+If you do not have a mask tester, they can be bought from many online retailers such as Absolute Fencing Gear.   
+    
+You will need some way of marking masks and glove that have passed inspection. The most common way to do this is a stamp. If you do not have a stamp, you can draw/write a distinct mark on the mask and glove. Always be sure that both people checking the masks/gloves have the same stamp and color (or marker).   
+    
+### Taping Strips
+You can speed up this process by creating a template. You can use ~55' of non-stretchy cord and make knots at the distances below. It is recommended that you then mark each knot with something like a baggage tag.  
+  * At one end of the cord: the left end of the strip labelled "A"  
+  * After 2m: the start of the left warning area labelled "B"
+  * After anohter 3m: the left en guarde line labelled "C"
+  * After anohter 2m: the center line labelled "D"
+  * After another 2m: the right en guarde line labelled "E"
+  * After anohter 3m: the start of the right warning area labelled "F"
+  * After another 2m: the right end of the strip labelled "G"
+  * After another 1.5m: the minimum width of the strip
+  * After another 0.5m: the maximum width of the strip  
+  
+## Scoring Table and Electronics
+The tournament manager will need a laptop to run FencingTime and a printer. Be sure to verify before the day of the tournament that the laptop works with the printer <span style="color:yellow">and that FencingTime can run the tournament with no issues.</span> An optional additional computer can be helpful to keep track of what strips are in use.  
+  
+Schools are to provide an extension cord (50ft is perfect) with two outlets for each strip.   
+ 
+## Supplies
