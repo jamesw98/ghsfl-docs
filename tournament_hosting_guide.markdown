@@ -166,3 +166,107 @@ Have pens available for people to use to check in. Have ink pads and stamps or m
     * oversees taping of strips, settings up chairs/tables, etc
   * Concessions Manager
     * person in charge of concessions and referees' table
+  
+### Volunteers
+<span style="color:yellow">Below is a **suggested** list of volunteer positions. Having some form of signup is recommended</span>
+  * Tournament Setup
+    * unless you have a very large team, you should plan on having all your fencers assist with tournament setup
+    * at least 4 people should help tape strips
+  * Concessions 
+    * you will need a couple people to setup the concession stand
+    * you will also need people to run the stand, this can be the same as the people that set it up, if you want
+    * <span style="color:yellow">these people should also stock the referees' table</span>
+  * Check In Table
+    * you will need at least 2 people to test masks and gloves, but more is always helpful
+  * National Anthem
+    * a performance of the National Anthem is strongly suggested
+    * it should be performed immediately after men's check in closes
+  * Clean up
+    * you should have all your fencers stay and help clean up the venue after the event has ended  
+    
+## Fencer Equipment Safety Check
+At the check in table, you must perform a safety check on masks and gloves and mark those that pass so that referees can verify.  
+    
+### Masks
+Masks should have no dents in the mesh, broken wires, or sharp edges. The mesh should be tested properly with a mask tester (punch). <span style="color=yellow">More details about properly testing a mask will be put here. If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span> the mask must have two points of contact with the back of the head, masks with no tongue and only two straps in an "X" should be rejected.   
+    
+The integrity of the mask's elastic strap should be tested to ensure that the strap(s) stretches, that the elastic has not been worn out and that the elastic is in satisfactory condition. When stretching the elastic, if there is no stretch or if it is too loose, reject the mask.   
+    
+Foil and sabre masks are not allowed for GHSFL competition.   
+    
+### Gloves
+Gloves with manufactured holes for body cords may be used. Gloves which have rips, tears, or holes in the upper layer of material may not be used.   
+    
+### Information Included in Other Documents
+Each school will have access to this site wich contains the following documents which are useful in running a tournament:
+  * *GHSFL FencingTime Instructions*: how to run a tournament in FencingTime
+  * *Competition Format*: describes the GHSFL tournament season 
+  
+You should be familiar with these documents before running a tournament for the GHSFL.   
+    
+## Medal Ceremony
+As soon as the last bout is over, you should award medals to the top four fencers in each event. The league will provide medals. 
+Suggested announcement: "The top four fencers should assemble for the mdeal ceremony wearing full white or their high school fencing team jacket"  
+    
+Suggested medal ceremony announcement:  
+"Tied for third place, in no particular order, the bronze medal goes to: [fencer] from [school] and [fencer] from [school]. In second place, the silver medal goes to [fencer] from [school]. In first place, the gold medal goes to [fencer] from [school]"  
+Pause between each to give out the medal.   
+Allow time for parents, coaches, etc to take pictures of the medal winners.   
+    
+## Signage, Forms, and Notes  
+  
+### Signs outside the school
+Have signs directing visitors from the campus entrance to where they should park, and from the parking lot to the school entrace they should use. These signs should be readable from a distance. "Fencing" in large letters with an arrow works perfectly.   
+    
+### Signs Inside the School
+The resources and forms page on this site has a set of signs that you might find useful.   
+    
+#### Tournament Signs
+This set of signs includes:
+  * First aid
+  * Various tables
+    * sign in
+    * mask check
+    * etc
+  * Directing people to the tournament 
+  * Directing people to strips in other rooms
+  
+#### Results Signs
+This set includes headers to identify the results posted on the wall  
+  
+#### School Signs
+For this, you can simply print the name of the school in a large font on a piece of paper. This is useful to show schools where their fencers' bags need to go  
+    
+#### Strip Numbers  
+These signs are just numbers 1 - the max number of strips at your venue  
+    
+### GHSFL Medical Withdrawal form  
+The resources and forms page on this site also contains the Medical Withdrawal form. You should print a couple copies for your tournament. Any completed forms should be given to the GHSFL Vice Chair after the tournament  
+    
+### Referee Meeting Notes
+The referee meeting is conducted by the Bout Committee Chair, who is usually the head coach of the host school. The GHSFL Vice Chair will provide notes on point to be covered in th emeeting. If your head coach will not be at the referee meeting, you must inform the Vice Chair so that anothe rhead coach can be assigned.   
+    
+## Timeline    
+  
+### Before the Season Starts
+
+#### As Required
+Keep in mind any locations you think your school would be able to host a tournament as well as the maximum number of strips that could fit in this space.   
+    
+#### At the Start of the School Year
+Make sure you have submitted any required paperwork to erserve the facilities. Check the school's facility caldendar to make sure that it hsows your tournament(s) on the correct date(s) and in the correct location.   
+    
+Acquire any equipment needed for hosting your tournament.   
+    
+### Before the Tournament 
+  
+#### A Few Weeks Before
+Determine if you can lay strips the Friday before the event, if not, you'll have to get a very early start on Saturday.   
+    
+Determine a list of volunteer positions that you will need filled and actively start looking for volunteers.   
+    
+Arrange for janitorial staff to raise basketball hoops and extend/retract bleachers if needed on the day of the event  
+  
+#### The Week Of
+Ensure your volunteer positions are filled, if they are not, send out a plea for more. 
+
