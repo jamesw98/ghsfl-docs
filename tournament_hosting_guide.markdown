@@ -130,4 +130,39 @@ The tournament manager will need a laptop to run FencingTime and a printer. Be s
   
 Schools are to provide an extension cord (50ft is perfect) with two outlets for each strip.   
  
-## Supplies
+## Other Supplies
+Here is a list of things that you will need to buy for each tournament, and things that you are likely to alrady have and just need to bring to the tournament.    
+   
+### Tape for Strips
+Use 1" painter's tape to mark out the strip. If the gym floor is highly polished, you might want to consider using tape designed for delicate surfaces  
+    
+### Tennis Balls
+Not required, but if there is a danger of tables of chair scratching the gym floor, you can put tennis balls on the legs to protect the floor.   
+    
+### First Aid Kit
+Check if your first aid kit needs to be restocked before the tournament  
+  
+### Check In Table
+Have pens available for people to use to check in. Have ink pads and stamps or markers for marking passed equipment.   
+    
+### Scoring Table
+  * Paper
+  * Spare ink for printer
+  * Tape for posting results 
+  * Spare batteries for PA system mic
+  * Pencils and sharpener 
+  * Clipboards
+  * For the team event, have schools bring their own pencils
+  
+## Staffing
+### Management Team  
+<span style="color:yellow">Below is a **suggested** list of managment jobs. Please do not wait until the week before the tournament to look for people to fill these roles.</span>
+  * <span style="color:yellow">Tournament Manager</span>
+    * <span style="color:yellow">runs FencingTime, makes sure the rest of the team is working well together</span>
+  * <span style="color:yellow">Floor Manager</span>
+    * <span style="color:yellow">makes sure strips are being used effectively</span>
+    * assigns strips for bouts
+  * Tournament Setup
+    * oversees taping of strips, settings up chairs/tables, etc
+  * Concessions Manager
+    * person in charge of concessions and referees' table
