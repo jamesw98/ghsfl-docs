@@ -4,7 +4,7 @@ title: Policies and Procedures
 permalink: /policies/
 ---
 # Policies and Procedures of the Georgia High School Fencing League
-#### Febuary 1 2022
+#### February 1 2022
 ## Downloadable Version
 [Click here to download a pdf of the GHSFL Policies and Procedures](../assets/ghsfl_policies_procedures.pdf)
 ## Preface
