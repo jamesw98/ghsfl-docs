@@ -154,7 +154,7 @@ Clinic
 ## Use of Contact List 
 The GHSFL contact list is limited to oen Faculty Sponsor, one Parent Representative, and one coach from each member school
 * The coach must have a personal email address on the contact list. Email addresses containing the name of a business or club will not be placed on the GHSFL contact list
-* The GHSFL contact list is distributed only to those listed on teh GHSFL contact list
+* The GHSFL contact list is distributed only to those listed on the GHSFL contact list
 * The GHSFL contact list is only to be used by those who are listed on the GHSFL contact list
 * The GHSFL contact list is to be used only for official and approved GHSFL business. The contact list is not to be used for any other purposes, including, but not limited to, any and all events not directly approved in writing by the GHSFL Board 
   
