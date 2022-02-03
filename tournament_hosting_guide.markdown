@@ -117,10 +117,10 @@ You will need some way of marking masks and glove that have passed inspection. T
 You can speed up this process by creating a template. You can use ~55' of non-stretchy cord and make knots at the distances below. It is recommended that you then mark each knot with something like a baggage tag.  
   * At one end of the cord: the left end of the strip labelled "A"  
   * After 2m: the start of the left warning area labelled "B"
-  * After anohter 3m: the left en guarde line labelled "C"
-  * After anohter 2m: the center line labelled "D"
+  * After another 3m: the left en guarde line labelled "C"
+  * After another 2m: the center line labelled "D"
   * After another 2m: the right en guarde line labelled "E"
-  * After anohter 3m: the start of the right warning area labelled "F"
+  * After another 3m: the start of the right warning area labelled "F"
   * After another 2m: the right end of the strip labelled "G"
   * After another 1.5m: the minimum width of the strip
   * After another 0.5m: the maximum width of the strip  
@@ -201,7 +201,7 @@ Foil and sabre masks are not allowed for GHSFL competition.
 Gloves with manufactured holes for body cords may be used. Gloves which have rips, tears, or holes in the upper layer of material may not be used.   
     
 ### Information Included in Other Documents
-Each school will have access to this site wich contains the following documents which are useful in running a tournament:
+Each school will have access to this site which contains the following documents which are useful in running a tournament:
   * *GHSFL FencingTime Instructions*: how to run a tournament in FencingTime
   * *Competition Format*: describes the GHSFL tournament season 
   
@@ -247,7 +247,7 @@ These signs are just numbers 1 - the max number of strips at your venue
 The resources and forms page on this site also contains the Medical Withdrawal form. You should print a couple copies for your tournament. Any completed forms should be given to the GHSFL Vice Chair after the tournament  
     
 ### Referee Meeting Notes
-The referee meeting is conducted by the Bout Committee Chair, who is usually the head coach of the host school. The GHSFL Vice Chair will provide notes on point to be covered in th emeeting. If your head coach will not be at the referee meeting, you must inform the Vice Chair so that anothe rhead coach can be assigned.   
+The referee meeting is conducted by the Bout Committee Chair, who is usually the head coach of the host school. The GHSFL Vice Chair will provide notes on point to be covered in the meeting. If your head coach will not be at the referee meeting, you must inform the Vice Chair so that another head coach can be assigned.   
     
 ## Timeline    
   
@@ -257,7 +257,7 @@ The referee meeting is conducted by the Bout Committee Chair, who is usually the
 Keep in mind any locations you think your school would be able to host a tournament as well as the maximum number of strips that could fit in this space.   
     
 #### At the Start of the School Year
-Make sure you have submitted any required paperwork to erserve the facilities. Check the school's facility caldendar to make sure that it hsows your tournament(s) on the correct date(s) and in the correct location.   
+Make sure you have submitted any required paperwork to reserve the facilities. Check the school's facility calendar to make sure that it shows your tournament(s) on the correct date(s) and in the correct location.   
     
 Acquire any equipment needed for hosting your tournament.   
     
@@ -276,4 +276,10 @@ Double check that janitorial staff can do what you need in terms of moving baske
     
 ### Tournament Day 
 Below you can find a **suggested** schedule for running a tournament  
-  
+* 7:00 - set up concessions stand and referees' table and volunteers should arrive
+* 7:30 - check in opens
+* 8:15 - referee meeting
+* 8:30 - men's check in closes and National Anthem
+* 10:00 - women's check in closes
+* 3:30-4:30 - end of tournament (if all went well)
+* 4:00-5:00 - cleanup finished
