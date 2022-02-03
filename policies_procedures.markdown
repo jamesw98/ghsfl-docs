@@ -113,7 +113,12 @@ Unless waived by the Board, the school fencing team must meet all tournament fac
   
 All schools, including the host, are responsible for providing scoring equipment and referees. For details, see the Competition Format Document.   
   
-When a new school joins the GHSFL, it takes time to save money for equipment and train referees. For the first season in which they compete, new schools with less than 15 fencers competing in a tournament will not be assigned any strips but are required to provide one timer/scorekeeper.   
+When a new school joins the GHSFL, it takes time to save money for equipment and train referees. For the first season in which they compete, new schools with less than 15 fencers competing in a tournament will not be assigned any strips but are required to provide one timer/scorekeeper.     
+  
+At all GHSFL competitions, uniform team socks designating the GHSFL high school which the fencer attends must be worn by all members of that high school team.
+If, upon reporting to the strip at the beginning of each bout, a fencer is not wearing their school's team socks, the referee will issue a red card.
+Team socks for each GHSFL school must have colors or a distinct design representing that school. 
+All schools must submit sock colors/designs to the GHSFL Board prior to the start of the season in order to confirm that the proposed design/color is acceptable and not in use by an existing GHSFL school
   
 ## Referees
 At tournaments, schools are responsible for providing referees for the strips they have been assigned.   
