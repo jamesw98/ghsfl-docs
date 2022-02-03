@@ -95,7 +95,7 @@ Team membership is limited to students in good standing enrolled in the member s
 ## Tournament Hosting
 Schools are required to host at least one tournament a season beginning in their third season of competition. Depending on the tournament schedule, schools may be assigned more tha one tournament. If a school finds that it is no longer able to host a tournament it has been assigned, it is that school's responsibility to resolve the situation by hosting at an alternative location (e.g. a middle school or community centre), finding another school to host the tournament, or (with the board's approval) moving the tournament to another date.   
   
-Tourmanet hosts must provide a first aid kit in the concessions area with visible signage. The tournament manager must be provided with the school's weather safety plan and security plan (e.g. fire, intruder, disturbances, etc.).   
+Tournament hosts must provide a first aid kit in the concessions area with visible signage. The tournament manager must be provided with the school's weather safety plan and security plan (e.g. fire, intruder, disturbances, etc.).   
   
 For more information about hosting tournaments, see the GHSFL Tournament Hosting Guide.   
   

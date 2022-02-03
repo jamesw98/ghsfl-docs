@@ -98,9 +98,10 @@ be in the building by 7 AM at the latest (earlier if you didn’t set up on Frid
 <span style="color:yellow">The Tournament Administrator handles communication between host schools and participating schools up until the night before the tournament<span>
 * <span style="color:yellow">The tournament schedule will be sent out at the beginning of the season</span>
 * <span style="color:yellow">Hosts are required to send the requested information to the Tournament Administrator no later than 5pm on the Sunday before the event via email</span>  
-* <span style="color:yellow">Participating schools are required to submit rosters no later than 5pm on Tuesday before the event</span>  
+* <span style="color:yellow">Participating schools are required to submit rosters no later than 5pm on Friday (8 days) before the event</span>  
     * <span style="color:yellow">after this deadline, no new fencers can be added to a school's roster</span>
-    * <span style="color:yellow">fencer's can be removed from a roster due to medical exception only</span>
+    * <span style="color:yellow">fencers can be removed for any reason up to 5pm on the Wednesday before the event</span>
+    * <span style="color:yellow">after that Wednesday, fencers can only be removed for medical reasons</span>
 * <span style="color:yellow">The Tournament Administrator will send out the event information as well as strip assignments no later than 5pm on the Wednesday before the event via email</span>
 * <span style="color:yellow">Once the Tournament Administrator has imported the rosters into FencingTime, he will send out the results via email to the participating schools</span>
     * <span style="color:yellow">the schools will have 24 hours to notify the Tournament Administrator of any fencers who were on the original rosters sent who are missing from the import results</span>  
