@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /about/
+title: About
 ---
 # GHSFL Documents Repository
 This website is the sole repository for all official GHSFL documents. 
