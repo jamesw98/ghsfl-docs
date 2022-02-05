@@ -249,6 +249,11 @@ The resources and forms page on this site also contains the Medical Withdrawal f
     
 ### Referee Meeting Notes
 The referee meeting is conducted by the Bout Committee Chair, who is usually the head coach of the host school. The GHSFL Vice Chair will provide notes on point to be covered in the meeting. If your head coach will not be at the referee meeting, you must inform the Vice Chair so that another head coach can be assigned.   
+
+## Check In Information   
+<span style="color:yellow">When checking in fencers, please ensure that they are listed on the FencingTime competitor list. If a fencer is not on the check in sheet or on the FencingTime competitor list you **cannot** add them to the tournament. Schools are given ample time to create and submit their rosters. If a fencer was not on the roster, and thus, not on the FencingTime competitor list, they are not allowed to fence at this event.</span>  
+
+<span style="color:yellow">The GHSFL Tournament Administrator will compare, after each tournament, the FencingTime results against the rosters he was sent. **If any discrepancies are found, the GHSFL reserves the right to annul the tournament**. An annulled tournament does not award points and does not count toward qualifying for either championship.</span>  
     
 ## Timeline    
   
