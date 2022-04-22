@@ -52,8 +52,8 @@ All individual tournaments, except scrimmages, award points. Points are awarded 
 Place | Points  
 1 | 64  
 2 | 52  
-3 | n/a  
-4 | 40  
+3 | 40 
+4 | n/a  
 5 | 32  
 6 | 30  
 7 | 28   
