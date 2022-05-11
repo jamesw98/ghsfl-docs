@@ -253,12 +253,7 @@ The referee meeting is conducted by the Bout Committee Chair, who is usually the
 ## Check In Information   
 <span style="color:yellow">When checking in fencers, please ensure that they are listed on the FencingTime competitor list. If a fencer is not on the check in sheet or on the FencingTime competitor list you **cannot** add them to the tournament. Schools are given ample time to create and submit their rosters. If a fencer was not on the roster, and thus, not on the FencingTime competitor list, they are not allowed to fence at this event.</span>  
 
-<span style="color:yellow">The GHSFL Tournament Administrator will compare, after each tournament, the FencingTime results against the rosters he was sent. **If any discrepancies are found, the GHSFL reserves the right to impose the following penalties:** </span>  
-* The tournament will not count toward the host school's GHSFL requirement to host
-* Fencers from the host school will be scratched from the tournament's final results, meaning
-  * Points earned by the host school's fencers will not be awarded
-  * Attendance by the host school's fencers will not be recorded, therefore not counting toward qualification for championships
-* Points and attendance will not be recorded for the fencers that were added to the roster
+<span style="color:yellow">If it is found out that fencers have been added the day of an event, the host will receive a warning. Upon a second offense, the Board may sanction penalties.</span>
     
 ## Timeline    
   
