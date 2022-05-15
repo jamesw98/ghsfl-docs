@@ -253,7 +253,7 @@ The referee meeting is conducted by the Bout Committee Chair, who is usually the
 ## Check In Information   
 <span style="color:yellow">When checking in fencers, please ensure that they are listed on the FencingTime competitor list. If a fencer is not on the check in sheet or on the FencingTime competitor list you **cannot** add them to the tournament. Schools are given ample time to create and submit their rosters. If a fencer was not on the roster, and thus, not on the FencingTime competitor list, they are not allowed to fence at this event.</span>  
 
-<span style="color:yellow">If it is found out that fencers have been added the day of an event, the host will receive a warning. Upon a second offense, the Board may sanction penalties.</span>
+<span style="color:yellow">If tournament records show that fencers have been added the day of an event, the host will receive a warning. Upon a second offense, the Board may sanction penalties.</span>
     
 ## Timeline    
   
