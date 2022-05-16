@@ -184,7 +184,7 @@ New schools are excused from being responsible for a strip for the the first sea
 <span style="color:yellow">Strip assignments are based on the number of fencers each school brings. If a school brings more than 19 fencers, they are expected to bring 2 strips and 2 referees. This can always change from tournament to tournament. The GHSFL Tournament Administrator will send out strip assignments the week before the tournament. If you know your school consistently brings more than 19 fencers, be prepared to hire 2 referees for most tournaments.</span>  
   
 ## Submitting Rosters  
-<span style="color:yellow">Rosters will be submitted via the GHSFL Roster Submission website. No submissions via email will be excepted unless you are given approval from the Tournament Administrator.</span>  
+<span style="color:yellow">Rosters will be submitted via the GHSFL Roster Submission website. No submissions via email will be accepted unless you are given approval from the Tournament Administrator.</span>  
 
 <span style="color:yellow">At the beginning of the season, the Tournament Administrator will send each school their login info for the season. **This is not to be shared with anyone outside of the faculty sponsor, parent representative, and singular coach listed on the GHSFL Contacts List**. Please do not share this login info with anyone.</span>    
   
