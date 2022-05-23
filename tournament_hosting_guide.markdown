@@ -191,7 +191,18 @@ At the check in table, you must perform a safety check on masks and gloves and m
 ### Masks
 Masks should have no dents in the mesh, broken wires, or sharp edges. The mesh should be tested properly with a mask tester (punch).  
   
-<span style="color:yellow">More details about properly testing a mask will be put here. If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span>   
+How to test a mask:  
+  1. Hold the mask up to the light. Look for any large gaps or spaces in the mesh. If a gap is found, you place the punch in that point.
+  2. Cradling the mask in your arm, run your fingers over the mesh. If you feel or see a dent, you must place the punch in that point. 
+  3. Cradling the mask in your arm, place hte punch on the mesh. Place your thumb on the flat end of the punch. Press firmly until you feel the cylinder of the punch touch your thumb. Repeat in four different locations on the mask. 
+  4. Placing the mask on a table, attempt to move the mask gasket with your thumbs
+  5. Check for firm attachment of the mask restraining devices (velcro)  
+  
+A mask fails if:
+  * The mask punch goes through the mask to the punch collar 
+  * The mask gasket moves easily or has spots that are not glued to the mask
+  * The mask restraining deviecs are absent or weakly attached
+<span style="color:yellow">If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span>   
 The mask must have two points of contact with the back of the head, masks with no tongue and only two straps in an "X" should be rejected.   
     
 The integrity of the mask's elastic strap should be tested to ensure that the strap(s) stretches, that the elastic has not been worn out and that the elastic is in satisfactory condition. When stretching the elastic, if there is no stretch or if it is too loose, reject the mask.   
