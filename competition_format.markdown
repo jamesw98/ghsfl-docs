@@ -7,7 +7,7 @@ permalink: /format/
 #### February 1st 2022
 ## Preface 
 This document describes how the GHSFL season works and how rankings are determined. If you have questions, please contact:
-* Tournament Administrator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)    
+* Tournament Coordinator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)    
 
 ## Related Documents
 These related documents can also be found on this site:
@@ -181,12 +181,12 @@ New schools are excused from being responsible for a strip for the the first sea
 * A referee  
   
 #### Strip Assignments 
-<span style="color:yellow">Strip assignments are based on the number of fencers each school brings. If a school brings more than 19 fencers, they are expected to bring 2 strips and 2 referees. This can always change from tournament to tournament. The GHSFL Tournament Administrator will send out strip assignments the week before the tournament. If you know your school consistently brings more than 19 fencers, be prepared to hire 2 referees for most tournaments.</span>  
+<span style="color:yellow">Strip assignments are based on the number of fencers each school brings. If a school brings more than 19 fencers, they are expected to bring 2 strips and 2 referees. This can always change from tournament to tournament. The GHSFL Tournament Coordinator will send out strip assignments the week before the tournament. If you know your school consistently brings more than 19 fencers, be prepared to hire 2 referees for most tournaments.</span>  
   
 ## Submitting Rosters  
-<span style="color:yellow">Rosters will be submitted via the GHSFL Roster Submission website. No submissions via email will be accepted unless you are given approval from the Tournament Administrator.</span>  
+<span style="color:yellow">Rosters will be submitted via the GHSFL Roster Submission website. No submissions via email will be accepted unless you are given approval from the Tournament Coordinator.</span>  
 
-<span style="color:yellow">At the beginning of the season, the Tournament Administrator will send each school their login info for the season. **This is not to be shared with anyone outside of the faculty sponsor, parent representative, and singular coach listed on the GHSFL Contacts List**. Please do not share this login info with anyone.</span>    
+<span style="color:yellow">At the beginning of the season, the Tournament Coordinator will send each school their login info for the season. **This is not to be shared with anyone outside of the faculty sponsor, parent representative, and singular coach listed on the GHSFL Contacts List**. Please do not share this login info with anyone.</span>    
   
 <span style="color:yellow">Schools will have until 5pm Friday before the tournament (8 days before, not 1 day before; see below) to submit their rosters. Until that deadline, any number of resubmissions can be made.</span>  
 
@@ -194,10 +194,10 @@ New schools are excused from being responsible for a strip for the the first sea
   
 <span style="color:yellow">After this deadline, no new fencers can be added to your school's rosters for this tournament.</span>  
   
-<span style="color:yellow">Up until 5pm the Wednesday before the tournament, removals from your school's rosters can be made for any reason directly from the website. After this deadline the only removals can be due to medical reasons and must be emailed to the Tournament Administrator.</span>      
+<span style="color:yellow">Up until 5pm the Wednesday before the tournament, removals from your school's rosters can be made for any reason directly from the website. After this deadline the only removals can be due to medical reasons and must be emailed to the Tournament Coordinator.</span>      
   
 ## Host Information  
-<span style="color:yellow">Two weeks before the tournament, the GHSFL Tournament Administrator will reach out to your school asking you to provide the following information:</span>    
+<span style="color:yellow">Two weeks before the tournament, the GHSFL Tournament Coordinator will reach out to your school asking you to provide the following information:</span>    
 
 * Address of your venue  
 * Maximum number of strips for your venue
