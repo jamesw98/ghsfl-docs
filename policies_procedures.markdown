@@ -9,8 +9,8 @@ permalink: /policies/
 This document describes the obligations of GHSFL members, procedures for certifying referees, and rules relating to
 safety.  
 The policies and procedures are set by the GHSFL Board and questions about them should be addressed to:
-* Chair | Terry White | [terry.white@ghsfl.net](mailto:terry.white@ghsfl.net)
-* Vice Chair | Kathy Vail | [kathy.vail@ghsfl.net](mailto:kathy.vail@ghsfl.net)  
+* Chair | Kathy Vail | [kathy.vail@ghsfl.net](mailto:kathy.vail@ghsfl.net)  
+* Vice Chair | Sonya Williams | [sonya.williams@ghsfl.net](mailto:sonya.williams@ghsfl.net)
 
 ## Mission Statement of the GHSFL  
 The purpose of this organization is to provide support for the development, activities and continuance of high school
