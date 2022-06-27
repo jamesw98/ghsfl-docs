@@ -8,7 +8,7 @@ permalink: /hosting/
 ## Preface 
 This document attempts to cover all aspects of hosting a GHSFL tournament **except** for running FencingTime.  
 If you have questions, please contact:  
-* Tournament Administrator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)    
+* Tournament Coordinator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)    
 
 ## Related Documents
 These related documents can also be found on this site:
@@ -29,7 +29,7 @@ The board will assign a host school for tournaments no school has bid on.
   
 ## Facilities 
 ### Fencing Strips
-<span style="color:yellow">The GHSFL Tournament Administrator will decide how many strips to assign based on the number of expected fencers from each school. When you host, you will have to send the GHSFL Tournament Administrator maximum number of strips you can accommodate, with the minimum being 8 strips. It is ideal to have more strips, especially for the Individual and Team Championships</span>
+<span style="color:yellow">The GHSFL Tournament Coordinator will decide how many strips to assign based on the number of expected fencers from each school. When you host, you will have to send the GHSFL Tournament Coordinator maximum number of strips you can accommodate, with the minimum being 8 strips. It is ideal to have more strips, especially for the Individual and Team Championships</span>
 
 ### Strip Layout
 For most schools, the possible strip locations are: main gym, aux gym, and cafeteria. As a last resort, you can place strips in a wide hallway.  
@@ -95,16 +95,16 @@ be in the building by 7 AM at the latest (earlier if you didn’t set up on Frid
 * Women's Check-in close: 10:00  
   
 ## Communication With Participating Schools
-<span style="color:yellow">The Tournament Administrator handles communication between host schools and participating schools up until the night before the tournament<span>
+<span style="color:yellow">The Tournament Coordinator handles communication between host schools and participating schools up until the night before the tournament<span>
 * <span style="color:yellow">The tournament schedule will be sent out at the beginning of the season</span>
-* <span style="color:yellow">Hosts are required to send the requested information to the Tournament Administrator no later than 5pm on the Sunday before the event via email</span>  
+* <span style="color:yellow">Hosts are required to send the requested information to the Tournament Coordinator no later than 5pm on the Sunday before the event via email</span>  
 * <span style="color:yellow">Participating schools are required to submit rosters no later than 5pm on Friday (8 days) before the event</span>  
     * <span style="color:yellow">after this deadline, no new fencers can be added to a school's roster</span>
     * <span style="color:yellow">fencers can be removed for any reason up to 5pm on the Wednesday before the event</span>
     * <span style="color:yellow">after that Wednesday, fencers can only be removed for medical reasons</span>
-* <span style="color:yellow">The Tournament Administrator will send out the event information as well as strip assignments no later than 5pm on the Wednesday before the event via email</span>
-* <span style="color:yellow">Once the Tournament Administrator has imported the rosters into FencingTime, he will send out the results via email to the participating schools</span>
-    * <span style="color:yellow">the schools will have 24 hours to notify the Tournament Administrator of any fencers who were on the original rosters sent who are missing from the import results</span>  
+* <span style="color:yellow">The Tournament Coordinator will send out the event information as well as strip assignments no later than 5pm on the Wednesday before the event via email</span>
+* <span style="color:yellow">Once the Tournament Coordinator has imported the rosters into FencingTime, he will send out the results via email to the participating schools</span>
+    * <span style="color:yellow">the schools will have 24 hours to notify the Tournament Coordinator of any fencers who were on the original rosters sent who are missing from the import results</span>  
     
 ## Equipment Needed
 ### Check In
