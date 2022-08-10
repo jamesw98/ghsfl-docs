@@ -29,7 +29,7 @@ The board will assign a host school for tournaments no school has bid on.
   
 ## Facilities 
 ### Fencing Strips
-<span style="color:yellow">The GHSFL Tournament Coordinator will decide how many strips to assign based on the number of expected fencers from each school. When you host, you will have to send the GHSFL Tournament Coordinator maximum number of strips you can accommodate, with the minimum being 8 strips. It is ideal to have more strips, especially for the Individual and Team Championships</span>
+<span style="color:yellow">The GHSFL Tournament Coordinator will decide how many strips to assign based on the number of expected fencers from each school. When you host, you will must send the GHSFL Tournament Coordinator maximum number of strips you can accommodate, with the minimum being 8 strips. It is ideal to have more strips, especially for the Individual and Team Championships</span>
 
 ### Strip Layout
 For most schools, the possible strip locations are: main gym, aux gym, and cafeteria. As a last resort, you can place strips in a wide hallway.  
@@ -161,7 +161,7 @@ Have pens available for people to use to check in. Have ink pads and stamps or m
   * <span style="color:yellow">Tournament Manager</span>
     * <span style="color:yellow">runs FencingTime, makes sure the rest of the team is working well together</span>
   * <span style="color:yellow">Floor Manager</span>
-    * <span style="color:yellow">makes sure strips are being used effectively</span>
+    * <span style="color:yellow">makes sure strips are being used efficiently</span>
     * assigns strips for bouts
   * Tournament Setup
     * oversees taping of strips, settings up chairs/tables, etc
@@ -194,14 +194,14 @@ Masks should have no dents in the mesh, broken wires, or sharp edges. The mesh s
 How to test a mask:  
   1. Hold the mask up to the light. Look for any large gaps or spaces in the mesh. If a gap is found, you place the punch in that point.
   2. Cradling the mask in your arm, run your fingers over the mesh. If you feel or see a dent, you must place the punch in that point. 
-  3. Cradling the mask in your arm, place hte punch on the mesh. Place your thumb on the flat end of the punch. Press firmly until you feel the cylinder of the punch touch your thumb. Repeat in four different locations on the mask. 
+  3. Cradling the mask in your arm, place the punch on the mesh. Place your thumb on the flat end of the punch. Press firmly until you feel the cylinder of the punch touch your thumb. Repeat in four different locations on the mask. 
   4. Placing the mask on a table, attempt to move the mask gasket with your thumbs
   5. Check for firm attachment of the mask restraining devices (velcro)  
   
 A mask fails if:
   * The mask punch goes through the mask to the punch collar 
   * The mask gasket moves easily or has spots that are not glued to the mask
-  * The mask restraining deviecs are absent or weakly attached
+  * The mask restraining devices are absent or weakly attached
 <span style="color:yellow">If  mask fails this test write "VOID" in large letters across the bib in permanent marker. If a fencer presents a mask with "VOID" or similar written on the bib, do not accept it.</span>   
 The mask must have two points of contact with the back of the head, masks with no tongue and only two straps in an "X" should be rejected.   
     
@@ -256,7 +256,7 @@ For this, you can simply print the name of the school in a large font on a piece
 These signs are just numbers 1 - the max number of strips at your venue  
     
 ### GHSFL Medical Withdrawal form  
-The resources and forms page on this site also contains the Medical Withdrawal form. You should print a couple copies for your tournament. Any completed forms should be given to the GHSFL Vice Chair after the tournament  
+The resources and forms page on this site also contains the Medical Withdrawal form. You should print a couple copies for your tournament. Any completed forms should be included with the hard copies of pool sheets, DE slips, results, etc and sent to the GHSFL Chair.  
     
 ### Referee Meeting Notes
 The referee meeting is conducted by the Bout Committee Chair, who is usually the head coach of the host school. The GHSFL Vice Chair will provide notes on point to be covered in the meeting. If your head coach will not be at the referee meeting, you must inform the Vice Chair so that another head coach can be assigned.   
