@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roster Guidelines
-permalink: /rosters/
+permalink: /roster-guidelines/
 ---
 # Roster Submission Guidelines
 * Rosters must use the template file sent out in emails by the GHSFL Tournament Coordinator
