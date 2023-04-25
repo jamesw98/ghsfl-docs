@@ -33,6 +33,8 @@ Below is a sample start time for a GHSFL tournament:
 ### Tournament Hosts
 Once the tournament dates are announced, schools are invited to bid on hosting on the date(s) of their choice. Bids are accepted in the order they are received. All schools are expected to host at least one regular season tournament, except schools that are new to the league, who are exempt from hosting for the first two seasons they participate in.   
   
+If a school does not send any bid for hosting, hosting dates will be assigned by the Tournament Coordinator. 
+  
 The schools that won the previous season's Team Championship are given the opportunity to host the next season's Championships.   
   
 For regular season tournaments, the host must have space for at least 8 strips. However, every effort should be made to have more strips, still considering safety.     
@@ -47,7 +49,7 @@ Scrimmages may include individual or team events in any format, they may be open
 ## Points and Standings   
 
 ### Points  
-All individual tournaments, except scrimmages, award points. Points are awarded to the top 16 fencers at each event. Points are awarded in the following scale:  
+All individual tournaments, except scrimmages and championships, award points. Points are awarded to the top 16 fencers at each event. Points are awarded in the following scale:  
 
 Place | Points  
 1 | 64  
@@ -92,7 +94,7 @@ The format for the Individual Championships is the same for the regular season. 
 Matches in the Team Championship are standard team matches between two teams of three fencers (with an optional alternate) using the 45-touche relay format. Seeding is based on the school's place in the team points list following the Individual Championships. Ties in seeding are broken based on points earned by the school's top ranked fencer of that gender.   
   
 ### Scrimmages  
-The host can alter the tournament format for scrimmages.  
+The host can alter the tournament format for scrimmages. All safety rules **must** be enforced.   
   
 ### Medals and Trophies  
 GHSFL provides the medals and trophies described above for regular season and championship tournaments. The host school is responsible for providing any medals or other prizes for scrimmages.   
@@ -127,17 +129,14 @@ If a fencer withdraws or is excluded during a DE bout, the fencer loses that bou
 Fencers who complete all their pool bouts and qualify for the DE round, but leave the venue and do not appear for the DE round should be withdrawn (if they left for a valid reason) or excluded (if they left for any other reason) **from their first DE bout**, the results of the fencers' pools are not affected.   
   
 #### Bout Committee  
-The purpose of the Bout Committee is to settle any questions that may arise about the application of the rules. The composition of hte Bout committee will be decided by the Vice Chair of the Board prior to the tournament.   
+The purpose of the Bout Committee is to settle any questions that may arise about the application of the rules. The composition of hte Bout committee will be decided by the Board prior to the tournament. Bout Committee members must stay until all events are finished.    
   
 #### Referees and Floor Judges  
-Referees who are former high school fencers must not referee DE bouts involving their former school for three seasons after leaving the school. The tournament organizer may not know which school referees used to fence for. Referees who are assigned a bout involving their former school should ask for the bout to be reassigned.   
+Referees who are former high school fencers must not referee DE bouts involving their former school for three seasons after leaving the school. The tournament organizer may not know which school referees used to fence for. Referees who are assigned a bout involving their former school should ask for the bout to be reassigned. Referees are required to stay until the final event of the tournament is ended or until excused by the tournament organizer.   
   
 If a referee feels uncomfortable refereeing a bout because of any association may ask for the bout to be reassigned, and the organizer will honor that request if possible.  
   
 If qualified floor judges are available, they should be assigned for all semi-final and final bouts of the Individual Championship and the final and third place match of the Team Championship. Fencers can request floor judges in any bout of a tournament.   
-  
-#### Finals  
-Except or team tournaments, no other bouts should be fenced while the men's and women's final is in progress.   
   
 ## Responsibilities of Participating Schools  
 ### Responsible Adult  
@@ -160,7 +159,7 @@ If a fencer receives a black card for any reason, the following penalties apply:
 Medal winner must appear at the medal ceremony in fencing uniform. Fencer who do not appear or are improperly dressed will not be awarded a medal or receive any points for that tournament.  
   
 ### Tournament Fees  
-At regular season and championship tournaments, the host school will collect from all participating schools a fee of $10 for the greater of (a) the estimated number of fencers they provided in advance or (b) the number of fencers who sign in. Participating schools should be prepared to pay the combined fees for all their fencers with a single check, payable to the host school, on teh day of the tournament. The host will provide a receipt on request.   
+At regular season and championship tournaments, the host school will collect from all participating schools a fee of $10 for the greater of (a) the estimated number of fencers they provided in advance or (b) the number of fencers who sign in. Participating schools should be prepared to pay the combined fees for all their fencers with a single check, payable to the host school, on the day of the tournament. The host will provide a receipt on request.   
   
 Fees for scrimmages are set by the host school.  
   
@@ -181,7 +180,7 @@ New schools are excused from being responsible for a strip for the the first sea
 * A referee  
   
 #### Strip Assignments 
-<span style="color:yellow">Strip assignments are based on the number of fencers each school brings. If a school brings more than 19 fencers, they are expected to bring 2 strips and 2 referees. This can always change from tournament to tournament. The GHSFL Tournament Coordinator will send out strip assignments the week before the tournament. If you know your school consistently brings more than 19 fencers, be prepared to hire 2 referees for most tournaments.</span>  
+<span style="color:yellow">Strip assignments are based on the number of fencers each school brings. If a school brings more than 19 fencers, they are required to bring 2 strips and 2 referees, unless told otherwise by the Tournament Coordinator. If a school bring more than 40, the school may be required to bring 3 or 4 refs. This can always change from tournament to tournament. The GHSFL Tournament Coordinator will send out strip assignments the week before the tournament. If you know your school consistently brings more than 19 fencers, be prepared to hire 2 referees for most tournaments.</span>  
   
 ## Submitting Rosters  
 <span style="color:yellow">Only listed team parents or faculty sponsors should be submitting rosters.</span>    
