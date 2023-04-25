@@ -4,7 +4,7 @@ title: Competition Format
 permalink: /format/
 ---
 # GHSFL Competition Format
-#### February 1st 2022
+#### April 2023
 ## Preface 
 This document describes how the GHSFL season works and how rankings are determined. If you have questions, please contact:
 * Tournament Coordinator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)    
