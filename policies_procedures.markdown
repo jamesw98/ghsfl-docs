@@ -25,7 +25,7 @@ The GHSFL will actively pursue the goal of making fencing a sanctioned GHSA spor
 ### Petition to Join GHSFL
 The school must petition the GHSFL Board for membership by submitting a signed letter of approval from the
 Principal or Athletic Director of the school. The letter must be on school stationary and include the following:
-* Signature of the Principal or Athletic Directory
+* Signature of the Principal or Athletic Director
 * Name and email address of the designated Faculty Sponsor
 * Acknowledgment that the fencing club is an official school club
 * Acknowledgment that practices will be held at the petitioning school.  
@@ -52,7 +52,9 @@ The GHSFL strongly encourages, but does not require, the Faculty Sponsor to be p
   
 Faculty Sponsors and coaches must take the approved on-line concussion safety training course: https://www.cdc.gov/headsup/youthsports/training/index.html. The Faculty Sponsor is responsible for ensuring the coach(s) for their school has taken the training.   
   
-Beginning with the 2020-21 season, GHSFL coaches must be at 21 years of age or older. Coaches must complete any background check/screening required by their school. The GHSFL strongly encourages the completion of a SafeSport course.    
+Beginning with the 2020-21 season, GHSFL coaches must be at 21 years of age or older. Coaches must complete any background check/screening required by their school. The GHSFL strongly encourages the completion of a SafeSport course for all coaches.  
+  
+In order to coach at a GHSFL Tournament coaches must have completed SafeSport training. The board will verify SafeSport certification before the first GHSFL tournament of the season.  
   
 #### Complaints Against Coaches
 Any complaint/report regarding coaches behavior must be made in writing by a faculty-sponsor or team parent. 
@@ -107,7 +109,9 @@ For more information about hosting tournaments, see the GHSFL Tournament Hosting
 * With prior written GHSFL Board approval, member schools may schedule scrimmages with other schools. However, individual students from one school may not participate in another school's practices  
 
 ### Tournament Participation
-Unless waived by the Board, the school fencing team must meet all tournament facility and strip requirements (referees and equipment) and must provide advance notification of team rosters (tournament participants). A responsible adult must be present for as long as any of the school's fencers are at the tournament.   
+Unless waived by the Board, the school fencing team must meet all tournament facility and strip requirements (referees and equipment) and must provide advance notification of team rosters (tournament participants). A responsible adult must be present for as long as any of the school's fencers are at the tournament.  
+  
+If, on the day of an event, a school does not provide a referee, their fencers will not be permitted to fence.  
   
 All schools, including the host, are responsible for providing scoring equipment and referees. For details, see the Competition Format Document.   
   
@@ -173,7 +177,7 @@ Any individual including, but not limited to, fencers, coaches, referees, facult
 * Good sportsmanship is expected from all fencers at all times during practices, scrimmages, and tournaments. Fencers will salute at the beginning and end of each out and shake hands at the end of each bout. Failure to do so will result in immediate disciplinary action
 * Fencers and member schools are expected to keep all equipment owned by them in proper working order and are responsible for the suitability and condition of that equipment at all times. Fencers and member schools may not use equipment that appears to be damaged or unsafe
 * Families, friends, and visitors must not interrupt or disrupt any ongoing fencing activity
-* Member schools and their guests attending GHSFL tournaments are bound by the rule sof fencing, as well as the GHSFL and USA Fencing codes of conduct
+* Member schools and their guests attending GHSFL tournaments are bound by the rules of fencing, as well as the GHSFL and USA Fencing codes of conduct
 * If at any time an individual threatens the safety of the fencers, guests or staff, they may be immediately escorted from the premise  
   
 ## General Safety Rules
