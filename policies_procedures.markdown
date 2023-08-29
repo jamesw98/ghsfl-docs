@@ -74,7 +74,7 @@ Any complaint/report regarding coaches behavior must be made in writing by a fac
 Team membership is limited to students in good standing enrolled in the member school. Members must also meet the following GHSA requirements:
 * **Age**: Students must be no more than 19 years old on May 1 of the current school year. 
 * **8 Semesters**: Students are eligible for 8 consecutive semesters beginning with the 1st semester of 9th grade. 
-* **Enrollment**: Students must be enrolled full tim at the school they compete for. Full time student means:
+* **Enrollment**: Students must be enrolled full time at the school they compete for. Full time student means:
   * In regular attendance 
   * Taking courses in the current semester worth at least 2.5 Carnegie Units that count for graduation
 * **Previous semester**: Students must have passed (a grade of 70) 2.5 Carnegie Units in the previous semester
