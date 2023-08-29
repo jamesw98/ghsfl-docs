@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roster submission
+title: Roster Submission
 permalink: /roster/
 ---
 {% include form.html %}
