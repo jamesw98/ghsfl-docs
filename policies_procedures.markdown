@@ -54,8 +54,6 @@ Faculty Sponsors and coaches must take the approved on-line concussion safety tr
   
 Beginning with the 2020-21 season, GHSFL coaches must be at 21 years of age or older. Coaches must complete any background check/screening required by their school. The GHSFL strongly encourages the completion of a SafeSport course for all coaches.  
   
-In order to coach at a GHSFL Tournament coaches must have completed SafeSport training. The board will verify SafeSport certification before the first GHSFL tournament of the season.  
-  
 #### Complaints Against Coaches
 Any complaint/report regarding coaches behavior must be made in writing by a faculty-sponsor or team parent. 
 * The complaint/report must be sent to the chair or vice-chair of the GHSFL
