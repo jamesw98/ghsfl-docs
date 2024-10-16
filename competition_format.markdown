@@ -78,7 +78,7 @@ Place | Points
   
 ### Qualifying for the Championships  
 #### Individual Championships   
-Fencers are eligible to compete in the Championships if they have competed in at least half of the regular season tournaments (rounded up) as well as placing in the top 16 at least once. The Individual Championships is limited to 84 men and 84 women.   
+Fencers are eligible to compete in the Championships if they have competed in at least half of the regular season tournaments (rounded up) as well as placing in the top 16 at least once. 
   
 #### Team Championships  
 To be eligible to fence in the Team Championships, fencers must have fenced in at least one GHSFL tournament in the current season. The Team Championship is limited to the top 24 men's teams and 24 women's teams.   
