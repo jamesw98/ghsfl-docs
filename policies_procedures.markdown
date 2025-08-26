@@ -118,7 +118,10 @@ When a new school joins the GHSFL, it takes time to save money for equipment and
 At all GHSFL competitions, uniform team socks designating the GHSFL high school which the fencer attends must be worn by all members of that high school team.
 If, upon reporting to the strip at the beginning of each bout, a fencer is not wearing their school's team socks, the referee will issue a red card.
 Team socks for each GHSFL school must have colors or a distinct design representing that school. 
-All schools must submit sock colors/designs to the GHSFL Board prior to the start of the season in order to confirm that the proposed design/color is acceptable and not in use by an existing GHSFL school
+All schools must submit sock colors/designs to the GHSFL Board prior to the start of the season in order to confirm that the proposed design/color is acceptable and not in use by an existing GHSFL school  
+
+### Returning Schools
+Schools returning to the Georgia High School Fencing League after an absence of fewer than 5 seasons must comply with all current membership requirements. Schools that have been inactive for 5 or more seasons will be considered new members and must meet the requirements for new schools.
   
 ## Referees
 At tournaments, schools are responsible for providing referees for the strips they have been assigned.   
