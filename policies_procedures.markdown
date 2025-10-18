@@ -10,7 +10,7 @@ This document describes the obligations of GHSFL members, procedures for certify
 safety.  
 The policies and procedures are set by the GHSFL Board and questions about them should be addressed to:
 * Chair | Kathy Vail | [kathy.vail@ghsfl.net](mailto:kathy.vail@ghsfl.net)  
-* Vice Chair | Sonya Williams | [sonya.williams@ghsfl.net](mailto:sonya.williams@ghsfl.net)
+* Tournament Coordinator | James Wallace | [james.wallace@ghsfl.net](mailto:james.wallace@ghsfl.net)
 
 ## Mission Statement of the GHSFL  
 The purpose of this organization is to provide support for the development, activities and continuance of high school
