@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 # Forms  
 * [Cleared Fencers (xlsx download)](assets/cleared_fencers.xlsx)
-* [Waiver](assets/ghsfl_waiver.pdf)
+* [Waiver](assets/ghsfl_waiver_26_27.pdf)
 * [Physical Form](assets/ghsfl_physical_form.pdf)
 * [Insurance Verification](assets/sample_insurance_24-25.pdf)  
 
